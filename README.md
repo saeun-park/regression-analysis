@@ -1,4 +1,4 @@
-# Regression Analysis
+# Regression Analysis Lab
 2022.09 - 2022.12  
 
 **통계이론연구실 (PI: Ilsang Ohn)**
